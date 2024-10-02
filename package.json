@@ -1,0 +1,21 @@
+{
+  "name": "nothingtheme",
+  "displayName": "nothingTheme",
+  "description": "nothing vibes theme for VSC",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nothing Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nothing Theme-color-theme.json"
+      }
+    ]
+  }
+}
