@@ -17,5 +17,10 @@
         "path": "./themes/Nothing Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository"{
+      "url": "https://github.com/HarounDominique/nothingTheme",
+      "type": "git"
+  },
+  "publisher": "haroun"
 }
